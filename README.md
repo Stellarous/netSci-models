@@ -3,4 +3,5 @@ To develop, test and deploy network science computational and mathematical model
 
 1. Introduction to Network Science
 2. Model I: Degree Centrality (DC)
+3. Comming soon...!
 
